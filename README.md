@@ -17,7 +17,9 @@ Regla % de tu sueldo: Ahorrar un % del sueldo
 Regla placer culpable: Ahorrar un % del monto de compra definido por ti cada vez que hagas un consumo de algo que te gusta mucho. Ejemplo: Starbucks, Café en minimarkets, Restaurantes y pubs, etc
 Regla pasión futbolera: Ahorrar cada vez que tu equipo de fútbol preferido gane
 
-3.- Las transacciones (del consumo) que tienen una descripción del comercio donde se hace , la fecha de transacción y el monto de la transacción. A continuación se muestra un ejemplo de esto:
+3.- Test_transactions 
+
+Las transacciones (del consumo) que tienen una descripción del comercio donde se hace , la fecha de transacción y el monto de la transacción. A continuación se muestra un ejemplo de esto:
 
 "user_id","description","transaction_date","amount"
 "0001c38e1231436eb1218b4caf1090d6",OXXO MARIA,"2019-12-06 00:00:00.0",-335.00
@@ -27,4 +29,4 @@ Regla pasión futbolera: Ahorrar cada vez que tu equipo de fútbol preferido gan
 Los montos están en pesos mexicanos y la descripción es un texto. Considera que son transacciones realizadas en México.
 
 
-4.-Un catálogo que explica los tipos de proyectos y reglas que tenemos. La persona siempre escoge una de las categorías de “project categories”
+4.-Catalog (Un catálogo que explica los tipos de proyectos y reglas que tenemos. La persona siempre escoge una de las categorías de “project categories”)
